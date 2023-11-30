@@ -3,6 +3,7 @@ h1 {
     justify-content: center;
     align-items: center;
 }
+<<<<<<< HEAD
  
 form {
     text-align: center;
@@ -15,6 +16,13 @@ form {
 } 
  
  
+=======
+
+.form{
+    text-align: center;
+}
+
+>>>>>>> df7c65ac6da34254d124fc009d60e1b024664831
 @media only screen and (min-width: 800px) {
     .clickLeft{
         position: fixed;
@@ -23,7 +31,7 @@ form {
         height: 100%;
         width: 6%;
         margin-left: 10px;
-        background-image: url("../img/rightArrow.png");
+        background-image: url("../img/arrow_back_FILL0_wght400_GRAD0_opsz24.svg");
         background-size: contain;
         background-repeat: no-repeat;
         background-position: center;
@@ -35,7 +43,7 @@ form {
         height: 100%;
         width: 6%;
         margin-right: 10px;
-        background-image: url("../img/leftArrow.png");
+        background-image: url("../img/arrow_forward_FILL0_wght400_GRAD0_opsz24.svg");
         background-size: contain;
         background-repeat: no-repeat;
         background-position: center;
